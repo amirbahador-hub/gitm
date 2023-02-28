@@ -26,7 +26,7 @@ requires-python = ">=3.10"
 build = ["build", "twine", "bumpver"]
 
 [project.scripts]
-bonbast = "gitm.__main__:run"
+gitm = "gitm.__main__:run"
 
 [project.urls]
 repository = "https://github.com/amirbahador-hub/gitm"
@@ -47,5 +47,5 @@ push = false
     'version = "{version}"',
 ]
 "gitm/__init__.py" = [
-    'bonbast_version = "{version}"',
+    'gitm_version = "{version}"',
 ]
