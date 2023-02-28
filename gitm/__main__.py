@@ -13,5 +13,8 @@ def hello() -> None:
     """
     print("Heloo")
 
-if __name__ == "__main__":
+def run() -> None:
     app()
+
+if __name__ == "__main__":
+    run()
