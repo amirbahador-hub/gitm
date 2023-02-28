@@ -1,1 +1,4 @@
 # gitm
+```
+pip install gitm
+```
