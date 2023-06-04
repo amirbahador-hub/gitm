@@ -19,6 +19,20 @@ def commit(msg:str) -> None:
     subprocess.run(["git", "commit", "-m", msg_commit]) 
 
 @app.command()
+def acommit(msg:str) -> None:
+    """
+    This command will Create Tables in your postgresql instance \n
+    -> Create Site table \n
+    -> Create Metric table
+    """
+    # subprocess.run(["git", "status"]) 
+    msg_commit = get_msg(msg)
+    print("git add .")
+    subprocess.run(["git", "add", "."]) 
+    print(f"git commit -m \"{msg_commit}\"")
+    subprocess.run(["git", "commit", "-m", msg_commit]) 
+
+@app.command()
 def get_pattern() -> None:
     for index, pattern in enumerate(patterns):
         print(index, pattern)

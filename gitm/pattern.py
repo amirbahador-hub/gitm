@@ -117,6 +117,8 @@ patterns = [
         Pattern(regex=case_insensetive("Update"), emoji=":hammer:", description="Add or update development scripts."),
         Pattern(regex=case_insensetive("Remove"), emoji=":fire:", description="Remove code or files."),
         Pattern(regex=case_insensetive("typo"), emoji=":pencil2:", description="Fix typos."),
+        Pattern(regex=case_insensetive("documentation"), emoji=":memo:", description="Add or update documentation."),
+        Pattern(regex=case_insensetive("document"), emoji=":memo:", description="Add or update documentation."),
         Pattern(regex=contain_words("breaking", "change"), emoji=":boom:", description="Introduce breaking changes."),
 ]
 
