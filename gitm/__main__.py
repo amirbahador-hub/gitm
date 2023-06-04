@@ -1,5 +1,5 @@
 import typer
-from pattern import get_msg, patterns
+from .pattern import get_msg, patterns
 import subprocess
 
 
