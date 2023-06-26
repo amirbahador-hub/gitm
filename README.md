@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://amirbahador-hub.github.io/gitm/"><img src="docs/logo_small.png" alt="GitM" width="200"></a>
+  <a href="https://amirbahador-hub.github.io/gitm/"><img src="https://raw.githubusercontent.com/amirbahador-hub/gitm/main/docs/logo.png" alt="GitM" width="200"></a>
 </h1>
 
 <h4 align="center">A minimal Application for <a href="https://gitmoji.dev/" target="_blank">Git Emoji</a> commit massage.</h4>
