@@ -1,0 +1,3450 @@
+[
+    {
+        "emoji": ":pencil:",
+        "message": "Update external links (#1786) Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":zap:",
+        "message": "Optimize regexp pattern in get_path_param_names (#1243)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":globe_with_meridians:",
+        "message": "Add translation of features.md to Chinese (#1192) * translation features.md to Chinese * update review data * :DOCS: update with review * :fire: Remove double link in build mkdocs.yml for other languages Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":globe_with_meridians:",
+        "message": "Add Chinese translation for index docs (#1191) * Add Chinese tranlation for docs/index.md * Fix syntax issue * Update resource address of zh docs * Optimize typography in zh docs * improve translations Co-authored-by: Waynerv <wei.xie@woqutech.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update project generation docs (#1287)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Spanish translation for the Python Types Intro page (#1237) * Spanish translation Python Types Intro page * :memo: Fix tuple docs in Types intro * :pencil2: Fix typos and wording nitpicks Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Spanish translation for the Features page (#1220) * Spanish translation for the Features page * :pencil2: Fix small typos and wording nitpicks Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.54.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Update database setup for tests (#1226) * :card_file_box: Update database setup for tests * :white_check_mark: Add pragmas and update db handling for tests"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Improve test debugging (#1222)"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade to MkDocs Material 5 and update docs scripts (#1225) * :arrow_up: Upgrade mkdocs.yml configs for MkDocs Material 5 * :sparkles: Update docs.py to always update mkdocs.yml * :globe_with_meridians: Update mkdocs.yml for translations * :wrench: Update MkDocs config * :sparkles: Add tabs for alternative options * :arrow_up: Update termynal setup with new CSS classes * :wrench: Sync / Update mkdocs.yml for languages"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.54.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update relase notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix minor grammatical mistakes in the async docs (#1188) * Fix minor grammatical mistakes in the async docs. * :pencil2: Update wording and clarify with emojis Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note about Alembic in project generator in SQL docs (#1183) * Update sql-databases alembic docs Was helpful to refer to the full-stack project when integrating alembic into my own project * :memo: Update Alembic note in docs Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Implement response_model_exclude_defaults and response_model_exclude_none (#1166) * Implemented response_model_exclude_defaults and response_model_exclude_none to be compatible pydantic options. * :truck: Rename and invert include_none to exclude_none to keep in sync with Pydantic Co-authored-by: Lukas Voegtle <lukas.voegtle@sick.de> Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add an example of setting up a test database (#1144) * Add an example of setting up a test database. * :memo: Add/update docs for testing a DB with dependency overrides * :wrench: Update test script, remove line removing test file as it is removed during testing * :white_check_mark: Update testing coverage pragma Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update contributing guidelines to review translation PRs (#1215)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Update log style in main page, for GitHub Markdown compatibility (#1200) * Update README.md fix string format * :art: Update log style in main page, for GitHub Markdown compatibility Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":see_no_evil:",
+        "message": "Add Python venv \"env\" to gitignore (#1212)"
+    },
+    {
+        "emoji": ":globe_with_meridians:",
+        "message": "Add new language on docs: pt (#1210)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Settings using lru_cache (#1214) * :sparkles: Update settings examples to use lru_cache * :memo: Update docs for Settings, using @lru_cache * :art: Update lru_cache colors to show difference in stored values"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":globe_with_meridians:",
+        "message": "Translate index to Spanish (#1201)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add documentation about settings and env vars (#1118) * Add doc and example for env var config * Syntax highlight for .env file * Add test for configuration docs * :memo: Update settings docs, add more examples * :white_check_mark: Add tests for settings * :truck: Rename \"Application Configuration\" to \"Metadata and Docs URLs\" to disambiguate between that and settings * :fire: Remove replaced example file Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.53.2"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix automatic embedding with dependencies and sub-dependencies (#1079) * Handle automatic embedding with Depends * :bug: Fix body embeds for sub-dependencies and simplify implementation * :white_check_mark: Add/update tests for body embeds in dependencies * :construction_worker: Trigger Travis Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix dependency overrides in WebSockets (#1122) * add tests to test_ws_router to test dependencies and dependency overrides. * supply dependency_overrides_provider to APIWebSocketRoute upon creation"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Update docs script to make sure languages are always sorted (#1189)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":speech_balloon:",
+        "message": "Add new language of docs: zh (#1187)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Add .env to git, to simplify VS Code development"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for adding example to schema (#1185)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.53.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix include docs example file (#1182)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add documentation of example kwarg of Field (#1106) * Add documentation of example kwarg of Field * :memo: Update info about schema examples * :truck: Move example file to new directory Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Check already cloned fields in create_cloned_field to support recursive models (#1164) * FIX: #894 Include recursion check for create_cloned_field. Added test for recursive model. * :recycle: Refactor and format create_cloned_field() Co-authored-by: Lukas Voegtle <lukas.voegtle@sick.de> Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add example of Pycharm in tutorial/debugging.md (#1096) * add example of pycharm in tutorial/debugging.md * :memo: Update PyCharm debug instructions and screenshot * :truck: Move image to new location in docs Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo (#1148)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":checkered_flag:",
+        "message": "Update Windows development environment and tests (#1179) * :checkered_flag: Fix ./scripts/docs.py encoding for Windows * :fire: Remove ujson from tests as it prevents Windows development It's still tested by Starlette anyway * :memo: Update development instructions for Windows * :art: Update format for WSGIMiddleware example * :white_check_mark: Update tests to run on Windows"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.53.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Update badge for coverage (#1175) from shields.io, as Codecov's one shows coverage for the last PR from a fork at master"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add orjson to pip install fastapi[all] (#1161)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix GZipMiddleware code block linking to TrustedHostMiddleware in docs (#1138)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Update doc string with correct class name (#1126)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Clarify function name in example (#1121)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add new external link (#1112) * Added new external link I added an article in which I briefly explain how to build an Apache Kafka producer / consumer with FastAPI and aiokafka. * :memo: Update format Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix exclude_unset and aliases in response model validation (#1074) * Fix exclude_unset and aliases in response model validation. * :sparkles: Use by_alias from param :shrug: Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add Gitter chat to docs (#1061) * implemented chat feature using sidecar from starlette docs * :fire: Use external Gitter sidecar JS * :sparkles: Re-implement Gitter chat after multi-lang * :fire: Remove moved file Co-authored-by: Aakash Nand <aakashnand@nttv6.jp> Co-authored-by: Sebastián Ramírez <tiangolo@gmail.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update and simplify translations docs (#1171)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":checkered_flag:",
+        "message": "Change docs address to localhost for Windows (#1169)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for docs translations (#1168) * :globe_with_meridians: Refactor file structure to support internationalization * :white_check_mark: Update tests changed after i18n * :twisted_rightwards_arrows: Merge Typer style from master * :wrench: Update MkConfig with Typer-styles * :art: Format mkdocs.yml with cannonical form * :art: Format mkdocs.yml * :wrench: Update MkDocs config * :heavy_plus_sign: Add docs translation scripts dependencies * :sparkles: Add Typer scripts to handle translations * :sparkles: Add missing translation snippet to include * :sparkles: Update contributing docs, add docs for translations * :see_no_evil: Add docs_build to gitignore * :wrench: Update scripts with new locations and docs scripts * :construction_worker: Update docs deploy action with translations * :memo: Add note about languages not supported in the theme * :sparkles: Add first translation, for Spanish"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Update terminal examples and Typer note (#1139) * :art: Update terminal examples with Termynal * :bento: Add Termynal scripts and styles from Typer for terminal examples"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.52.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add ORJSONResponse (#1065) * :sparkles: Add ORJSONResponse * :memo: Add tutorial using ORJSONResponse * :white_check_mark: Add test for ORJSONResponse * :memo: Update index.md"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.51.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Re-export utils from Starlette (#1064) * :sparkles: Re-export main features used from Starlette to simplify developer's code * :recycle: Refactor Starlette exports * :recycle: Refactor tutorial examples to use re-exported utils from Starlette * :memo: Add examples for all middlewares * :memo: Add new docs for middlewares * :memo: Add examples for custom responses * :memo: Extend docs for custom responses * :memo: Update docs and add notes explaining re-exports from Starlette everywhere * :bento: Update screenshot for HTTP status * :wrench: Update MkDocs config with new content * :recycle: Refactor tests to use re-exported utils from Starlette * :sparkles: Re-export WebSocketDisconnect from Starlette for tests * :white_check_mark: Add extra tests for extra re-exported middleware * :white_check_mark: Add tests for re-exported responses from Starlette * :sparkles: Add docs about mounting WSGI apps * :heavy_plus_sign: Add Flask as a dependency to test WSGIMiddleware * :white_check_mark: Test WSGIMiddleware example"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.50.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add link to the Release Notes from the section about pinning versions for deployment (#1058)"
+    },
+    {
+        "emoji": ":pushpin:",
+        "message": "Upgrade Starlette version (#1057)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs about pinning versions for deployment (#1056)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.49.2"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix broken links in release notes (#1052)"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo in release notes (#1051)"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Refactor serialize_response parameter name (#1031)"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Refactor function calling a path operation function to simplify profiling (#1027)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add testing dependencies #1026"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Admit valid types for Pydantic fields as responses models (#1017)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Fix markdown code section rendering error in SQL tutorial (#1015)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.49.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix declaring a single parameter per name (#994)"
+    },
+    {
+        "emoji": ":rocket:",
+        "message": "Update Netlify deploy action (#1047)"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Move all mypy configurations to configuration file (#987)"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Do not deploy preview to Netlify on external PRs while GitHub actions are solved (#1046)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.49.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix path encoding (#978)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add link: JP articles related to fastapi (#974)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix broken link in docs (#949)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo (#941)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs for dependencies with yield (#986)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add mermaid.js support in Markdown fenced blocks for diagrams (#985)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":construction_worker:",
+        "message": "Add GitHub actions to deploy to Netlify (#983)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Allow callables (as functools.partial) in path operations (#977)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.48.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Lint first in tests, to error out faster (#948)"
+    },
+    {
+        "emoji": ":mute:",
+        "message": "Log email-validator not installed only when used (#946)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Peewee docs, simplify with double dependency with yield (#947)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add link: Create and Deploy FastAPI app to Heroku (#942)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Sanic description as it is now ASGI too :tada: (#932)"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos (#920)"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix body parsing (#918)"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo (#916)"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Allow Any type for enums in OpenAPI (#906)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add article to external links (#901)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note about Body parameters without Pydantic (#900)"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix Pydantic field clone logic with validators (#899)"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix middleware docs link (#893)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Update default API title from \"Fast API\" to \"FastAPI\" for consistency (#890)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.47.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":lock:",
+        "message": "Fix clone field implementation to handle sub-models in response_model (#889)"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix FastAPI serialization of Pydantic ORM mode blocking the event loop (#888)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.47.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Refactor docs, \"Tutorial - User Guide\" and \"Advanced User Guide\" (#887)"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Tweak external links, Markdown format, typos (#881)"
+    },
+    {
+        "emoji": ":lock:",
+        "message": "Check both username and password in security tutorial (#865)"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix validating form params declared with classes (list, tuple, set, etc) (#856)"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "add body to RequestValidationError for easier debugging (#853)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add external links, dynamic GitHub topic projects, and formatting (#850)"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix Peewee contextvars handling in docs (#879)"
+    },
+    {
+        "emoji": ":heavy_minus_sign:",
+        "message": "Use venv with Flit for local development, instead of requiring Flit and Pipenv (#877)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Udpate release notes"
+    },
+    {
+        "emoji": ":lock:",
+        "message": "Update HTTP Basic Auth docs fixing timing attacks (#807)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.46.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Tweak typos and configs (#837)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Add link to Chinese FastAPI posts (#810)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Implement OAuth2 authorization_code integration (#797)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Highlight all new lines in docs example upgrade (#795)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix callback handling in sub-routers (#792)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos (#784)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Add four JP articles to external links (#783)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for subtypes of main types in jsonable_encoder"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "update twitter compose tweet links (#813) The links to post @tiangolo were not working"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for correctly using Peewee (#789)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.45.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for OpenAPI Callbacks (#722)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":loud_sound:",
+        "message": "Refactor logging (#781)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add article about FastAPI to external links (#766)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":speech_balloon:",
+        "message": "Rephrase handling-errors to remove gender while keeping readability (#780)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Change 'Schema' to 'Field' in docs (#746)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.44.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bento:",
+        "message": "Add GitHub social preview assets to git (#752)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Update PyPI trove classifiers (#751)"
+    },
+    {
+        "emoji": ":construction_worker:",
+        "message": "Enable full Travis for Python 3.8 (#750)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update the \"new issue\" templates (#749) * :wrench: Update the \"new issue\" templates * :green_heart: Trigger Travis CI after Travis migration"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix issue with exotic pydantic error serialization (#748)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.44.0, with support for Pydantic v1 and above! :tada:"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Make GitHub action Issue Manager run once every night"
+    },
+    {
+        "emoji": ":construction_worker:",
+        "message": "Add GitHub action Issue Manager (#742)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos in docs (#734)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix the usage of custom_encoder for jsonable_encoder #714 (#715)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix XML example (#710)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Fix typos and wording in deployment docs (#700)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Clarify docs for APIRouter dependencies (#698)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Add FastAPI cheatsheet to links (#671)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix protocol separator typo (#647)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for Pydantic v1 and above :tada: (#646) * Make compatible with pydantic v1 * Remove unused import * Remove unused ignores * Update pydantic version * Fix minor formatting issue * :rewind: Revert removing iterate_in_threadpool * :sparkles: Add backwards compatibility with Pydantic 0.32.2 with deprecation warnings * :white_check_mark: Update tests to not break when using Pydantic < 1.0.0 * :memo: Update docs for Pydantic version 1.0.0 * :pushpin: Update Pydantic range version to support from 0.32.2 * :art: Format test imports * :sparkles: Add support for Pydantic < 1.2 for populate_validators * :sparkles: Add backwards compatibility for Pydantic < 1.2.0 with required fields * :pushpin: Relax requirement for Pydantic to < 2.0.0 :tada: :rocket: * :green_heart: Update pragma coverage for older Pydantic versions"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.43.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Replace guys by developers when a group of people is targeted (#645) Just to make sure we include everyone, disregarding their gender."
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Document overriding operationId for all path operations using their function names (#642)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fixing validator-caused incorrect output key order (#637)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Generate correct OpenAPI docs for responses with no content (#621)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Remove $ sign from bash codeblocs in markdown (#613)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Add documentation for self-serving static Swagger UI (#112) (#557)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.42.0: Answer to the Ultimate Question of Life, the Universe, and Everything"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add dependencies with yield (used as context managers) (#595) * :heavy_plus_sign: Add development/testing dependencies for Python 3.6 * :sparkles: Add concurrency submodule with contextmanager_in_threadpool * :sparkles: Add AsyncExitStack to ASGI scope in FastAPI app call * :sparkles: Use async stack for contextmanager-able dependencies including running in threadpool sync dependencies * :white_check_mark: Add tests for contextmanager dependencies including internal raise checks when exceptions should be handled and when not * :white_check_mark: Add test for fake asynccontextmanager raiser * :bug: Fix mypy errors and coverage * :mute: Remove development logs and prints * :white_check_mark: Add tests for sub-contextmanagers, background tasks, and sync functions * :bug: Fix mypy errors for Python 3.7 * :speech_balloon: Fix error texts for clarity * :memo: Add docs for dependencies with yield * :sparkles: Update SQL with SQLAlchemy tutorial to use dependencies with yield and add an alternative with a middleware (from the old tutorial) * :white_check_mark: Update SQL tests to remove DB file during the same tests * :white_check_mark: Add tests for example with middleware as a copy from the tests with dependencies with yield, removing the DB in the tests * :pencil2: Fix typos with suggestions from code review Co-Authored-By: dmontagu <35119617+dmontagu@users.noreply.github.com>"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix sitemap.xml in website, fix #597 (#598)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.41.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Starlette to 0.12.9 and add State (#593)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add better support for request body access/manipulation with custom classes (#589)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix preserving route_class when calling include_router (#538)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.40.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Add notes about installing python-multipart for forms (#574)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Sort schemas alphabetically (#554) Modify openapi spec generation to include schemas in alphabetical order."
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Allow docstrings to be truncated before being used for OpenAPI (#556)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix doctype in docs (#537)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix setting 4XX overriding default 422 validation errors(#517)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo in HTTP Basic auth tutorial (#514)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil:",
+        "message": "Fix incorrect example in docs - first steps (#511)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for setting Swagger UI initOAuth configs (clientId, appName) (#499)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.39.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Allow defaults in path parameters (and don't use them) (#450) (#464) This allows using parameters that can have defaults (e.g. `None`) that can be used as query parameters. But can also be used in routers with that include those parameters as part of the path."
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for specifying a default_response_class (#467)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for strings and __future__ type annotations (#451) * Add support for strings and __future__ annotations * Add comments indicating reason for string annotations * Fix ignores (including removing some unused ignores)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.38.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Use proper import for Request -- fixes #492 (#493)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.38.0.Support for Pydantic 0.32.2 and Starlette 0.12.8"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add recent articles and opinions (#490)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Starlette support range to include 0.12.8 (#477)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade support to Pydantic version 0.32.2 (breaking change) (#463)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.37.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for custom route class (#468)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Allow disabling Google fonts in ReDoc (#481)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":lock:",
+        "message": "Ensure `skip_defaults` doesn't cause extra fields to be serialized (#485)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Enable tests for Python 3.8-dev (#465)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support and tests for Pydantic dataclasses in response_model (#454)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo in oauth2-jwt.md (#447)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "use media_type from Body params for OpenAPI requestBody (Fixes: #431) (#439)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add article: Deploying a scikit-learn model with ONNX and FastAPI (#438)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Allow using custom 422 validation error and use media type from response class in schema (#437) * media_type of additional responses from the response_class * Use HTTPValidationError only if a custom one is not defined (Fixes: #429)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix \"default\" extra response with extra status codes (#489) * :bug: Fix lowercase \"default\" extra response * :bug: Fix model for responses, to allow \"default\" plus status codes * :white_check_mark: Add test for \"default\" extra response"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Allow additional responses to use status ranges and \"default\" (#435)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.36.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix skip_defaults implementation when returning a Pydantic model (#422)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Use caching logic to determine OpenAPI spec for duplicate dependencies (#417)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix mypy route errors after merging #415 (#462)"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Allow empty routed path (issue #414) (#415)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.35.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo in assert statement (#419)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix plural-s without apostrophe in docs (#411)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.34.0 upgrading Starlette"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Release Notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Starlette max range to 0.12.7 (#367)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add test from @dmontagu in #333 for duplicate models (#385)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.33.0, including Pydantic 0.30.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Pydantic to 0.30 (#384) * bump pydantic to 0.30 * :pushpin: Pin Pydantic to 0.30 as 0.31 hasn't been released"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.32.0, as PR ##347 might be a breaking change in some specific cases"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.31.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix small typo in docs for features (#380)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Change limit default parameter to 10 in Query docs (#366) Rest of docs reference 10 as the default."
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Tweak wording on OAuth2 scopes (#371)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update enum examples to use str, and improve Swagger UI in examples (#351)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix regression, Swagger UI with deep linking (#350)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add test for templates in include_router path (#349)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note to docs about including same router multiple times (#348)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":building_construction:",
+        "message": "Fix same function names in different modules with composite bodies (#347) * :building_construction: Implement unique IDs for dynamic models like those used for composite bodies and responses. IDs based on path (not only on function name, as it can be duplicated in a different module). * :white_check_mark: Add tests for same function name and composite body * :white_check_mark: Update OpenAPI in tests with new dynamic model ID generation"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.31.0, upgrading Pydantic to 0.29"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade support for Pydantic to 0.29 (#344)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.30.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add section about external links to docs (#341)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":fire:",
+        "message": "Remove Pipfile.lock from the repository (each contributor can keep his/her locally) * :fire: Remove Pipfile.lock Being a library, it should work independent of locking of dependency tree. The Pipfile (and Pipfile.lock) is only used locally for development of FastAPI itself, it doesn't affect final users (that is controlled with pyproject.toml). The Pipfile.lock adds unnecessary noise to PRs that update/upgrade development packages, and the locking is not the same in all environments (e.g. Linux, Mac, and Windows). Each FastAPI contributor (developing FastAPI itself) can have his/her own Pipfile.lock, but it doesn't have to be in git. * :see_no_evil: Add Pipfile.lock to .gitignore"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Docs: Help FastAPI (#339)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Refine internal type declarations and logic around them (#338)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update, simplify, and clarify the SQL tutorial (#331)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add online SQLite browsers to docs (#330)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.30.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Implement support for Pydantic's ORM mode (#322) * :sparkles: Implement support for Pydantic's ORM mode * :building_construction: Re-structure/augment SQL tutorial source using ORM mode * :memo: Update SQL docs with SQLAlchemy, ORM mode, relationships * :fire: Remove unused util in tutorial * :memo: Add tutorials for simple dict bodies and responses * :fire: Remove old SQL tutorial * :white_check_mark: Add/update tests for SQL tutorial * :white_check_mark: Add tests for simple dicts (body and response) * :bug: Fix cloning field from original field"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":fire:",
+        "message": "Remove unused regex in routing.py (#314)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Use default response status reasons in additional responses (#313) * default the description of additional response to status reason phrase * fix 404 description * fix lint warning * allow custom response status code"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Pydantic to 0.28 (#320)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.29.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Add format-imports script"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update response-directly.md, fix link (#306)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix default response model docs (#288) Fix a discrepancy in the `tax` parameters default value between the docs and the code example."
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.29.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for Response parameters to set headers, cookies, and status codes (#294) * :sparkles: Add support for declaring a Response parameter to set headers and cookies * :white_check_mark: Add source for docs and tests * :memo: Add docs for setting headers, cookies and status code * :memo: Add attribution to Hug for inspiring response parameters"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.28.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Implement dependency value cache per request (#292) * :sparkles: Add dependency cache, with support for disabling it * :white_check_mark: Add tests for dependency cache * :memo: Add docs about dependency value caching"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Implement dependency overrides for testing (#291) * :sparkles: Implement dependency overrides for testing * :white_check_mark: Add docs source tests and extra tests for dependency overrides * :memo: Add docs for testing dependencies with overrides"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.27.2"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update relase notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix path and query parameters receiving dict as valid (#287) * :bug: Fix path and query parameters accepting dict * :white_check_mark: Add several tests to ensure invalid types are not accepted * :memo: Document (to include tested source) using query params with list * :bug: Fix OpenAPI schema in query with list tutorial"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.27.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix HTTP Bearer security auto-error (#282)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix type declaration of HTTPException (#279)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.27.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix docs link in oauth2-scopes.md (#275) #274"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Refactor param extraction using Pydantic Field (#278) * :sparkles: Refactor parameter dependency using Pydantic Field * :arrow_up: Upgrade required Pydantic version with latest Shape values * :sparkles: Add tutorials and code for using Enum and Optional * :white_check_mark: Add tests for tutorials with new types and extra cases * :recycle: Format, clean, and add annotations to dependencies.utils * :memo: Update tutorial for query parameters with list defaults * :white_check_mark: Add tests for query param with list default"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.26.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Separate Pydantic's ValidationError handler and improve docs for error handling (#273) * :sparkles: Implement separated ValidationError handlers and custom exceptions * :white_check_mark: Add tutorial source examples and tests * :memo: Add docs for custom exception handlers * :memo: Update docs section titles"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs for paths in path params (#256)"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix path in path parameters (#272)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update link in release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Update testing docs, examples for testing POST, headers (#271)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix response_model type to allow List[Model] (#266)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.25.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add include, exclude, and by_alias to path operation methods (#264) * :sparkles: Make jsonable_encoder's include and exclude receive sequences * :sparkles: Add include, exclude, and by_alias to app and router * :sparkles: Add and update tutorial code with new parameters * :memo: Update docs for new parameters and add docs for updating data * :white_check_mark: Add tests for consistency in path operation methods * :white_check_mark: Add tests for new parameters and update tests"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Create CONTRIBUTING.md (#255)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add skip_defaults support for path operations (for #242) (#248)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.24.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for WebSockets with dependencies, params, etc #166 (#178)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Pydantic to 0.26 (#247)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.23.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Starlette to 0.12.0 (#243)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add swagger UI OAuth2 redirect page for implicit/code auth flows in API docs (#198)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":zap:",
+        "message": "Make Swagger UI, ReDoc and OpenAPI handlers be coroutines to improve performance (#241)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Make Swagger UI and ReDoc parameterizable to host offline assets for docs (#112)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.22.0"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add parameter dependencies to path operation decorators and include_router (#235) * :sparkles: Implement dependencies in decorator and .include_router * :memo: Add docs for parameter dependencies * :white_check_mark: Add tests for dependencies parameter * :fire: Remove debugging prints in tests * :memo: Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix OpenAPI URL format for Starlette convertors (#234)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update relase notes"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Separate format and lint scripts (#232)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs about params as functions for mypy (#231)"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add param functions, to override types, to make mypy happy (#226)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":fire:",
+        "message": "Remove Python version extraction in tests, no longer used"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Reenable Black --check for Python 3.7 (#229) Reenabled Black --check for python 3.7, issue is fixed. see https://github.com/ambv/black/issues/494"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.21.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":loud_sound:",
+        "message": "Raise from previous exception (#195)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Use a logger instead of the root logging (#222)"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Pydantic to version 0.25 (#225)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Minor spelling fix in routing (#221)"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Enable FastAPI releases bot in main Gitter channel"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.20.1"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "add py.typed to ship typing information (#209) As described in https://www.python.org/dev/peps/pep-0561/"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add FastAPI releases bot for Gitter (#189) * :fire: Remove development util script * :art: Reformat release notes with markdown-only code (no HTML) * :sparkles: Add FastAPI releases bot for Gitter"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.20.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos in docs, from forms (#176)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Use 401 with WWW-Authenticate for OAuth2 and add scope_str (#188)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Hypercorn as an alternative ASGI server (#187)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add docs and tests for Jinja2 templates (#186) * :sparkles: Add docs and tests for Jinja2 templates * :art: Fix format in test, remove unused import"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Docs and tests, responses with headers and cookies (#185)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.19.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs about returning a response directly and encoder (#184)"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Rename parameter content_type to response_class (#183)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.18.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add docs for HTTP Basic Auth and tests (#177)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add automatic header handling for HTTP Basic Auth (#175) * :sparkles: Add automatic header handling for HTTP Basic Auth * :art: Remove obsolete comment"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":lock:",
+        "message": "Fix development dependencies security (#174)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Rename additional response OpenAPI declarations"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for middleware (#173)"
+    },
+    {
+        "emoji": ":rocket:",
+        "message": "Deploy when tagged using Python 3.6"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "0.17.0"
+    },
+    {
+        "emoji": ":rocket:",
+        "message": "Make Flit publish from CI (#170)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Release Notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add docs about CORS (#169)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "By default, encode by alias (#168)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.16.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Update Pydantic usage, types, values, minor structure changes (#164)"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Upgrade docstring Markdown parsing (#163) * :sparkles: Upgrade docstring Markdown parsing * :memo: Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Pydantic to 0.23 (#160) * Add websocket to APIRouter * Upgrade pydantic to v0.23.0 * Forgot pyproject.toml * :arrow_up: Upgrade some Pipfile.lock dependencies"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "fixed small typo /tutorial/extra-models.md (#159)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "fix URL examples in Tutorial: Query Parameters (#157) * modify tutorial * modify item_id"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note about Swagger UI and multi-part uploads"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.15.0, multi-file uploads"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for multi-file uploads (#158)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Use same link in benchmarks as in index"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add docs about responses with additional status codes (#156) * :sparkles: Add docs about responses with additional status codes * :memo: Update docs, link to documenting additional responses"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.14.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note on installing and running pytest"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Improve automatic naming of path operations in API docs (#155) * :art: Improve operation summary naming * :memo: Update names in README * :truck: Improve names of security tutorial"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add testing docs and tests (#151) * :pencil2: Fix typo in security intro * :sparkles: Add testing docs and tests * :bug: Debug Travis coverage * :bug: Debug Travis coverage, report XML * :green_heart: Make Travis/Flit use same code install * :rewind: Revert Travis/Codecov debugging changes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add deeplinking to Swagger UI (#148) Update the Swagger UI docs to deep link to path operations to share them more easily."
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Update development dependencies, Pipfile.lock (#150)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add opinions in main page"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Include Hug and Falcon in Alternatives/Inspiration"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.13.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes and OAuth2 scopes docs"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add OAuth2 scopes with SecurityScopes, upgrade Security (#141) * :sparkles: Upgrade OAuth2 Security with scopes handling * :memo: Update Security tutorial with OAuth2 and JWT * :sparkles: Add tutorial code for OAuth2 with scopes (and JWT) * :white_check_mark: Add tests for tutorial/OAuth2 with scopes * :bug: Fix security_scopes type declaration * :sparkles: Add docs and tests for SecurityScopes"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.12.1, fix responses in include_router"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix handling additional responses in include_router (#140)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix typo in SQL tutorial (#138)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "fix typos in nested models and OAuth2 with JWT (#127)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.12.0, add additional responses"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Update test-conv-html.sh to allow extra params"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Additional Responses (#97) Add additional responses to OpenAPI, including Pydantic models or schemas directly, custom status codes, media types, extending `response_model`, etc."
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add/refactor addditional responses, tests, docs"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.11.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update default error response in SQL tutorial"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add auto_error to security utils (#134) to allow them to be optional, also allowing the declaration of multiple security schemes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":card_file_box:",
+        "message": "Close the DB even if exceptions are raised (#89) * Close the DB even if exceptions are raised * :memo: Add note about closing DB in finally"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":fire:",
+        "message": "removed duplicate dependency in pyproject.toml (#128)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.10.3"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":construction_worker:",
+        "message": "Set Travis to use dist=xenial and Python 3.7 instead of 3.7-dev (#92)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":fire:",
+        "message": "Remove repeated param declaration (#123)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add docs/tests extending OpenAPI (#126)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add a Gitter chat badge and links (#117) * Add Gitter badge * :memo: Add links and badges to Gitter chat"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note in response model docs: why not return type annotations (#109) * Update response model documentation to explain design choice Closes #101 * :memo: Update note about return function type annotation"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Udpate release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "fix name of shutdown_event in docs (#105) Fix name copy/paste name error in docs source for startup/shutdown events."
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.10.2"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix JSON Schema of additional properties (#121) #87"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note about Celery in background tasks"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Release Notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Document and test union and list response models (#108)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.10.1: support for encode/databases"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add docs and tests for encode/databases (#107) * :sparkles: Add docs and tests for encode/databases * :heavy_plus_sign: Add testing-only dependency, databases"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.10.0: BackgroundTasks and websockets fix"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Udpate release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add support for BackgroundTasks parameters (#103) * :sparkles: Add support for BackgroundTasks parameters * :bug: Fix type declaration in dependencies * :bug: Fix coverage of util in tests"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add websocket to APIRouter (#100) * Add websocket to APIRouter * Restore upstream/master Pipfile.lock (git checkout upstream/master -- Pipfile.lock) * Added tests for router with a prefix"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Release Notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add events docs and tests (#99)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.9.1, multi value/duplicate query/header"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Multi-value query parameters and duplicate headers (#95) * :memo: Document multi-value query parameters * :sparkles: Document and test multiple query values * :sparkles: Document receiving duplicate headers"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.9.0, compatible with latest Pydantic"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update links in help section"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix link from deployment to bigger applications"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "typo: fist_name -> first_name (#72)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":twisted_rightwards_arrows:",
+        "message": "Merge PR #72"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Update Pydantic to 0.21.0 (#90) * :arrow_up: Upgrade Pydantic and others (isort), update docs after changes by isort * :art: Format with newest isort, update type hints in jsonable_encoder * :wrench: Update test script, to avoid Pydantic type errors * :arrow_up: Update pyproject.toml with latest Pydantic"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for application configuration (OpenAPI)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release version 0.8.0"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos in README"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs - Release Notes"
+    },
+    {
+        "emoji": ":twisted_rightwards_arrows:",
+        "message": "Merge origin master with release notes"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Make scripts executable (#76)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add tags parameter to Release Notes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add tags parameter to app.include_router (#55)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Uvicorn docs with new --reload option (#74)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release-notes with isort changes"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Update imports and scripts for new isort versions (#75)"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.7.1, Raspberry Pi deployment and docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add instructions for Docker on Raspberry Pi"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update benchmarks link"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":construction_worker:",
+        "message": "Limit Docker trigger to branch master"
+    },
+    {
+        "emoji": ":construction_worker:",
+        "message": "Trigger Docker images build on Travis (#65)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Clarify uploadfile async method calls"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.7.0, with support for UploadFile"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes with UploadFile"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.6.4"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes with WebSockets"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add docs for WebSockets (#62)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add History, Design and Future to docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add link to Python docs in debugging section"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note about bigger applications in Docker"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for debugging"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add technical details about async def handling (#61) #33"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo in release notes"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.6.3: favicons in docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes, favicons"
+    },
+    {
+        "emoji": ":lipstick:",
+        "message": "Add FastAPI favicons to docs (#53)"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo in release notes"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.6.2, SQL tutorial improvements and project generator"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes with SQL tutorial changes"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Update SQL with dependency and intro project generator (#52)"
+    },
+    {
+        "emoji": ":lipstick:",
+        "message": "Add PNG images to improve link previews"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Improve naming of middleware in SQLAlchemy tutorial"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix GraphQL typo"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.6.1: GraphQL"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add docs for GraphQL (#48)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Include PR in Release Notes"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.6.0, upgrade Starlette, improve SQLAlchemy compatibility"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Use request.state for SQLAlchemy session in tutorial (#45)"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Upgrade Starlette and fix compatibility (#44)"
+    },
+    {
+        "emoji": ":see_no_evil:",
+        "message": "Add test.db to .gitignore"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.5.1: docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add contributing/development docs (#42)"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note about path declaration order"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add section about help/getting help"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.5.0 with new HTTPException"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add HTTPException with custom headers (#35) * :memo: Update Release Notes with issue templates * :sparkles: Add HTTPException with support for headers Including docs and tests * :memo: Update Security docs to use new HTTPException"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Release Notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for using the Starlette Request directly (#25) Add docs for using the Starlette Request directly"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Release Notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update SQLAlchemy docs, with current workaround"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.4.0 with openapi_prefix, #26"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Release Notes and openapi_prefix docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add note about DB Browser for SQLite in SQL docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update Release Notes"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release after SQLAlchemy fix: 0.3.0"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Bump version, after fix, release"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix jsonable_encoder for models with Config (#29) but without json_encoders"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Release 0.2.0"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update release notes"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos in index and alternatives"
+    },
+    {
+        "emoji": ":rocket:",
+        "message": "Bump version and add Release Notes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Requests to inspiration"
+    },
+    {
+        "emoji": ":chart_with_upwards_trend:",
+        "message": "Add Analytics to understand docs usage and improvements"
+    },
+    {
+        "emoji": ":pushpin:",
+        "message": "Pin versions of dependencies and bump version"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix docs clarification about dict unwrapping in extra-models and simple-oauth2 #7"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Clarify docs, alternatives, about APISpec OAI versions"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for bigger applications and APIRouter and update tests to match docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for response status codes"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add screenshot to body-schema tutorial"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for deployment, with Docker, HTTPS, etc"
+    },
+    {
+        "emoji": ":wrench:",
+        "message": "Update development environment dependencies"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Bump version after fix for constrained bytes"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix constrained bytes, from defaults in Pydantic #2"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs for dependencies"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Improve explanation of dependencies"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typo in dependencies docs"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Bump version, after query and header as lists and bug fixes for Python 3.7"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix Python 3.7 specific list query handling"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs, 100% coverage"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix type checks for Python 3.7"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Allow lists of query or header params and add tests for them"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add security checks for HTTP utils and tests for them"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos and docs notes"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Bump version, new security features and bug fixes"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Add missing type definition"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Improve security utilities and add tests"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs, clarify what's a schema"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Fix missing format"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Add tests, fix issues and update Pydantic"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update tutorials"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs about alternatives, inspiration and benchmarks"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Improve explanation of request bodies"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Bump version, after changes in OAuth2 utils"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for OAuth2 security"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Update OAuth2 class utilities to be dependencies"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add passlib and pyjwt to development dependencies"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Version bump, fixing several issues, lots of docs and tests"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add pending tests to temporal dir"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix utility OAuth2PasswordRequestForm to use forms and be used as a dependency"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add tutorial for complete OAuth2 password flow"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Security tutorial: Get current user"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add first Security tutorials"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add example screenshot for dependencies"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update and add docs for dependencies"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update and clarify first-steps tutorial"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix double editor screenshot"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add tests for metadata"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Test extra routes, with parameters directly"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add tests for validation errors in response"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Test all HTTP methods"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add ujson for local development"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Update tests for HTML content and remove unneeded tests"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Refactor jsonable_encoder and test it with nested arbitrary classes"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add docs, tests and fixes for extra data types including refactor of jsonable_encoder to allow other object and model types"
+    },
+    {
+        "emoji": ":rotating_light:",
+        "message": "Fix mypy type errors"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Fix OpenAPI test for body schema"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add tests for response_model"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Test custom responses"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add tests for form and files"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix Form and File params must always be embeded and add tests for forms and files"
+    },
+    {
+        "emoji": ":mute:",
+        "message": "Remove debugging prints"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add test-cov-html script for local coverage analysis and debugging"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Re-implement check for body as a workaround while encode/starlette#287 is merged"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Project Generation section"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Bump version, after fix for email_validator and docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs to improve look in GitHub"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update README from docs source"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs and index to make clear what FastAPI does"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Move tutorial src files to top level docs"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix email_validator error, generated by autoflake"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Recover extensive tests for path and params"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Update query param tests and docs"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Format tests for Cookies"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add tests for body with Schema"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Test cookies"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Make badges be links to new tab (_blank)"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Test for missing required body"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix broken link to docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs highlighting after re-sort imports coming back to flit, after pipenv"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Revert to flit install and re-format As it has shown to be more reliable, and closer to final user environments"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add tests for header parameters"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Try fixing Travis, again..."
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Install dev-packages with pipenv, not pip"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Install dev-packages in Travis"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Use pipenv in Travis"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Update tutorial renamer to exclude files"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Re-format tutorials, files names and tests for tutorial files"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix optional bodies raising an error when not provided in the request"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs, typos, aclarations, fix examples for NoSQL models"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Python type hints tutorial"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add second tutorial src for python-types"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add tutorial src for python-types"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Fix Netlify build with pipenv"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Update query tests, application type checks and temporarily disable coverage fail, to allow publishing docs from Travis"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Update Netlify docs build, try 78"
+    },
+    {
+        "emoji": ":fire:",
+        "message": "Remove un-used requirements.txt"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Call docs build with Python module"
+    },
+    {
+        "emoji": ":fire:",
+        "message": "Remove dist hidden old file"
+    },
+    {
+        "emoji": ":pencil2:",
+        "message": "Fix typos from @mariacamilagl 's review"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs, stubs and structure"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add stub for extra Starlette"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add stubs for Security, multi-files, app configurations"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for integrating with NoSQL"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for SQL databases"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix docs typos"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update dependencies docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add fist Dependency Injection docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for custom response"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for advanced path operation configs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for path operation configurations"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs, use the term path operation"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Docs for Form and File parameters"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for Form data"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for extra models"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for response_model"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Header docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Cookie docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add tutorial for body nested models"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Body Schema tutorial section"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add body multiple parameters docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Path params and numeric validators docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Move Query params - str validations to better name"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add Query() parameters tutorial and update docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add request body tutorial"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add new tutorials to docs"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Update tutorial src renamer to use sub-directories"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix error location for required parameters"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs, add first tutorials"
+    },
+    {
+        "emoji": ":truck:",
+        "message": "Re-order tutorial Python fiels"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Update renamer script"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add tutorials python src files"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Update OAuth2 Form model and add strict version"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Update param names for main FastAPI app and types"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add autoflake to development dependencies in Pipfile"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Lint and format tutorial src files"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Remove un-used imports, add auto-flake"
+    },
+    {
+        "emoji": ":truck:",
+        "message": "Script to auto-resort tutorial src files"
+    },
+    {
+        "emoji": ":truck:",
+        "message": "Re-sort tutorial example files"
+    },
+    {
+        "emoji": ":twisted_rightwards_arrows:",
+        "message": "Include docs and plugins from master"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update mkdocs extensions"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs, async and features"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add first tutorial src files"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Re-order parameters"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add stub for deployment in docs"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs for async / await and concurrency"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Fix live docs script"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Bump version for release"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Add ValidationError schema even if only bodies are declared in the defined endpoints"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs, use pip as it is more generic"
+    },
+    {
+        "emoji": ":bookmark:",
+        "message": "Bump version for release"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add tests for OAuth2 Password scheme"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Add util class for OAuth2 Password Bearer scheme"
+    },
+    {
+        "emoji": ":arrow_up:",
+        "message": "Update JS CDN to cdn.jsdelivr.net as unpkg.com seems to have been down all day"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix indentation bug"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Un-hide inner HTTPException errors"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix int query parameters with default being treated as body"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add tests for corner case with query params"
+    },
+    {
+        "emoji": ":loud_sound:",
+        "message": "Log body parsing errors"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix import of email_validator from Pydantic"
+    },
+    {
+        "emoji": ":lock:",
+        "message": "Fix constraining return values to model"
+    },
+    {
+        "emoji": ":lipstick:",
+        "message": "Change logo image as GitHub can't set html styles"
+    },
+    {
+        "emoji": ":lipstick:",
+        "message": "Fix logo size for GitHub"
+    },
+    {
+        "emoji": ":rocket:",
+        "message": "Update pyproject.toml with new metadata"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update index/README URLs to be absolute"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Try again with Netlify, different settings"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Add requirements so netlify gets mkdocs"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Add build docs script"
+    },
+    {
+        "emoji": ":bug:",
+        "message": "Fix tests imports"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add Pipfile mkdocs dependencies"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update README.md"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Update docs: features"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Fix typos, names and structure of docs"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add uvicorn to all dependencies"
+    },
+    {
+        "emoji": ":lipstick:",
+        "message": "Update index with new image names"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Import from root module"
+    },
+    {
+        "emoji": ":lipstick:",
+        "message": "Add screenshots for index"
+    },
+    {
+        "emoji": ":memo:",
+        "message": "Add docs, set up mkdocs"
+    },
+    {
+        "emoji": ":lipstick:",
+        "message": "Add completion screenshots"
+    },
+    {
+        "emoji": ":lipstick:",
+        "message": "Add logo images"
+    },
+    {
+        "emoji": ":see_no_evil:",
+        "message": "Add coverage, site and others to gitignore"
+    },
+    {
+        "emoji": ":art:",
+        "message": "Update main imports (and exports)"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Error out when tests fail"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add optional dependencies from Pydantic"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Fix depencency names, again..."
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Fix complete names of Flit dependencies"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add extra dependencies to Flit"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Call test script with explicit bash"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Fix testing script name"
+    },
+    {
+        "emoji": ":green_heart:",
+        "message": "Install flit and install package with flit"
+    },
+    {
+        "emoji": ":construction_worker:",
+        "message": "Add Travis"
+    },
+    {
+        "emoji": ":pushpin:",
+        "message": "Add Pipfile.lock"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Temporal ignore mypy missing imports"
+    },
+    {
+        "emoji": ":heavy_plus_sign:",
+        "message": "Add Pipfile dependencies for development"
+    },
+    {
+        "emoji": ":see_no_evil:",
+        "message": "Update .gitignore for VS Code, PyCharm, Jupyter"
+    },
+    {
+        "emoji": ":construction_worker:",
+        "message": "Add scripts, stolen from Starlette"
+    },
+    {
+        "emoji": ":page_facing_up:",
+        "message": "Add license file, update version and first pyproject.toml"
+    },
+    {
+        "emoji": ":white_check_mark:",
+        "message": "Add first tests, for path and query"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Update requests with body, rename params"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Update parameter names and order fix mypy types, refactor, lint"
+    },
+    {
+        "emoji": ":sparkles:",
+        "message": "Refactor, update code, several features"
+    },
+    {
+        "emoji": ":recycle:",
+        "message": "Refactor, fix and update code"
+    },
+    {
+        "emoji": ":tada:",
+        "message": "Start tracking messy initial stage ...before refactoring and breaking something"
+    }
+]

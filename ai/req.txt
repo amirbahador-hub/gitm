@@ -1,0 +1,3 @@
+pip install GitPython
+pip install tensorflow
+pip install numpy
