@@ -1,62 +1,42 @@
-import typer
-from .pattern import get_msg, patterns
 import subprocess
+import sys
 
+import typer
+
+from gitm.agents.commit_improver import improve_commit
+from gitm.llm_plugin_loader import get_llm
 
 app = typer.Typer()
 
 
 @app.command()
-def commit(msg:str) -> None:
+def commit(msg: str) -> None:
     """
-    This command will Create Tables in your postgresql instance \n
-    -> Create Site table \n
-    -> Create Metric table
+    This command will improve the commit message using the LLM
     """
-    # subprocess.run(["git", "status"]) 
-    msg_commit = get_msg(msg)
-    print(f"git commit -m \"{msg_commit}\"")
-    subprocess.run(["git", "commit", "-m", msg_commit]) 
+    msg_commit = improve_commit(msg, get_llm())
+    input(f"\n👉 About to run:\n\n    git commit -m \"{msg_commit}\"\n\nPress Enter to continue, or Ctrl+C to cancel... ")
+    subprocess.run(["git", "commit", "-m", msg_commit])
+
+
+
 
 @app.command()
-def acommit(msg:str) -> None:
+def acommit(msg: str) -> None:
     """
-    This command will Create Tables in your postgresql instance \n
-    -> Create Site table \n
-    -> Create Metric table
+    This command will improve the commit message using the LLM
     """
-    # subprocess.run(["git", "status"]) 
-    msg_commit = get_msg(msg)
+    # subprocess.run(["git", "status"])
+    msg_commit = improve_commit(msg, get_llm())
     print("git add .")
-    subprocess.run(["git", "add", "."]) 
-    print(f"git commit -m \"{msg_commit}\"")
-    subprocess.run(["git", "commit", "-m", msg_commit]) 
+    subprocess.run(["git", "add", "."])
+    print(f'git commit -m "{msg_commit}"')
+    subprocess.run(["git", "commit", "-m", msg_commit])
 
-@app.command()
-def get_pattern() -> None:
-    for index, pattern in enumerate(patterns):
-        print(index, pattern)
- 
+
 def run() -> None:
     app()
-    # print(sys.argv[1:])
+
 
 if __name__ == "__main__":
     run()
-
-# @app.command()
-# def add_pattern(regex:str, emoji:str, description) -> None:
-#     patterns.append(Pattern(regex=regex, emoji=emoji, description=description))
-#     print(patterns)
-
-# @app.command()
-# def update_pattern(index:int, pattern:str, emoji:str) -> None:
-#     ...
-
-# @app.command()
-# def remove_pattern(index:int) -> None:
-#     ...
-
-# @app.command()
-# def test() -> None:
-#     migrate()
