@@ -1,5 +1,4 @@
 import subprocess
-import sys
 
 import typer
 
@@ -15,10 +14,13 @@ def commit(msg: str) -> None:
     This command will improve the commit message using the LLM
     """
     msg_commit = improve_commit(msg, get_llm())
-    input(f"\n👉 About to run:\n\n    git commit -m \"{msg_commit}\"\n\nPress Enter to continue, or Ctrl+C to cancel... ")
-    subprocess.run(["git", "commit", "-m", msg_commit])
+    replace = input(
+        f'\n👉 About to run:\n\n    git commit -m "{msg_commit}"\n\nPress Enter to continue, or Ctrl+C to cancel... \n'
+    )
+    if replace == "":
+        subprocess.run(["git", "commit", "-m", msg_commit])
 
-
+    subprocess.run(["git", "commit", "-m", replace])
 
 
 @app.command()
