@@ -14,7 +14,7 @@ class LLM(StrEnum):
 default_model_map = {
     LLM.CLAUDE: "claude-3-opus-20240229",
     LLM.GEMINI: "gemini-pro",
-    LLM.GPT: "gpt-4",
+    LLM.GPT: "gpt-4o",
 }
 
 
