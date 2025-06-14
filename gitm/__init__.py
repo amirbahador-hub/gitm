@@ -1,1 +1,1 @@
-gitm_version = "0.1.1"
+gitm_version = "2.0.1"
